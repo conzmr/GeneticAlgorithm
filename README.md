@@ -7,7 +7,7 @@ scheduler controls the way processes are managed in the operating system.
 Linux supports preemptive multitasking, this means that the process scheduler decides which process
 runs and when.
 Balance performance across different computer configurations is one challenge in modern operating
-systems.Linux has two separate process-scheduling algorithms.
+systems. Linux has two separate process-scheduling algorithms.
 If a Linux system performs similar tasks in a regular manner, it could be useful to implement
 optimizations to the Linux scheduler to optimize the performance of those tasks. 
 
